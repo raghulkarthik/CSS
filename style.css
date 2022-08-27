@@ -1,0 +1,68 @@
+h1{
+	color:blue;
+	text-align: center;
+	text-decoration: underline;
+	background-image: url(https://kntechpower.files.wordpress.com/2016/05/hi-tech-concepts-on-blue-background-header.jpg);
+	padding: 30px;
+}
+h2{
+	text-align: center;
+	background-color: orange;
+	color: white;
+	padding: 30px;
+	outline-style: outset;
+	outline-color: red;
+	text-shadow: 2px 2px;
+}
+hr{
+	border: 2px solid white;
+
+}
+section p{
+	color: yellow;
+	text-align:center ;
+	padding: 30px;
+	outline-style: double;
+	outline-color: white;
+	font-size:20px; 
+
+}
+body{
+	background-image: url(https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/6037fd6d292fe47561a93ac4_how-to-learn-web-design.jpg);
+}	
+div{
+	background-image: url(https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/6037fd6d292fe47561a93ac4_how-to-learn-web-design.jpg);
+}
+
+ul{
+	list-style: none;
+	background-color:gray;
+}
+li{
+	display: inline;
+	margin: 100px;
+}
+li a{
+	color:white;
+	text-decoration: none; 
+	padding: 20px;
+
+}
+li a:hover {
+	color: red;
+	text-decoration: underline;
+}
+header{
+	background-color: url(https://kntechpower.files.wordpress.com/2016/05/hi-tech-concepts-on-blue-background-header.jpg);
+	padding: 10px;
+}
+footer {
+	color: black;
+	background: white;
+	padding: : 10px;
+	text-align: center;
+}
+footer p:hover{
+	color: red;
+	text-decoration: underline;
+}
